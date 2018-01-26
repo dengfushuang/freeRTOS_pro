@@ -1,0 +1,9 @@
+..\output\lpc177x_8x_rtc.o: ..\Libraries\Drivers\source\lpc177x_8x_rtc.c
+..\output\lpc177x_8x_rtc.o: ..\Libraries\Drivers\include\lpc177x_8x_libcfg_default.h
+..\output\lpc177x_8x_rtc.o: ..\Libraries\Drivers\include\lpc_types.h
+..\output\lpc177x_8x_rtc.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\lpc177x_8x_rtc.o: ..\Libraries\Drivers\include\lpc177x_8x_rtc.h
+..\output\lpc177x_8x_rtc.o: ..\Startup\LPC177x_8x.h
+..\output\lpc177x_8x_rtc.o: ..\Startup\core_cm3.h
+..\output\lpc177x_8x_rtc.o: ..\Startup\system_LPC177x_8x.h
+..\output\lpc177x_8x_rtc.o: ..\Libraries\Drivers\include\lpc177x_8x_clkpwr.h

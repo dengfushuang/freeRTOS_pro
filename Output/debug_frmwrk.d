@@ -1,0 +1,10 @@
+..\output\debug_frmwrk.o: ..\Libraries\Drivers\source\debug_frmwrk.c
+..\output\debug_frmwrk.o: ..\Libraries\Drivers\include\lpc177x_8x_libcfg_default.h
+..\output\debug_frmwrk.o: ..\Libraries\Drivers\include\lpc_types.h
+..\output\debug_frmwrk.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\debug_frmwrk.o: ..\Libraries\Drivers\include\debug_frmwrk.h
+..\output\debug_frmwrk.o: ..\Libraries\Drivers\include\lpc177x_8x_uart.h
+..\output\debug_frmwrk.o: ..\Startup\LPC177x_8x.h
+..\output\debug_frmwrk.o: ..\Startup\core_cm3.h
+..\output\debug_frmwrk.o: ..\Startup\system_LPC177x_8x.h
+..\output\debug_frmwrk.o: ..\Libraries\Drivers\include\lpc177x_8x_pinsel.h
